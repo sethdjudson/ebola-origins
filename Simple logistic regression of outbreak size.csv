@@ -1,0 +1,58 @@
+,Flare-up?
+"Best-fit values",
+"     β0",-3.384
+"     β1",0.01293
+"     X at 50%",261.7
+,
+"Std. Error",
+"     β0",1.244
+"     β1",0.006275
+"     X at 50%",77.46
+,
+"95% CI (profile likelihood)",
+"     β0","-6.780 to -1.460"
+"     β1","0.001742 to 0.02801"
+"     X at 50%","151.4 to 1155"
+,
+"Odds ratios",
+"     β0",0.03390
+"     β1",1.013
+,
+"95% CI (profile likelihood) for odds ratios",
+"     β0","0.001137 to 0.2323"
+"     β1","1.002 to 1.028"
+,
+"Is slope significantly non-zero?",
+"     |Z|",2.061
+"     P value",0.0393
+"     Deviation from zero?",Significant
+,
+"Likelihood ratio test",
+"     Log-likelihood ratio (G squared)",11.96
+"     P value",0.0005
+"     Reject Null Hypothesis?",Yes
+"     P value summary",***
+,
+"Area under the ROC curve",
+"     Area",0.9111
+"     Std. Error",0.07664
+"     95% confidence interval","0.7609 to 1.000"
+"     P value",0.0058
+,
+"Goodness of Fit",
+"     Tjur's R squared",0.5517
+"     Cox-Snell's R squared",0.4055
+"     Model deviance, G squared",12.12
+,
+Equation,"log odds = -3.384+0.01293*X"
+,
+"Data summary",
+"     Rows in table",23
+"     Rows skipped (missing data)",0
+"     Rows analyzed (#observations)",23
+"     Number of 1",5
+"     Number of 0",18
+"     Number of parameter estimates",2
+"     #observations/#parameters",11.5
+"     # of 1/#parameters",2.5
+"     # of 0/#parameters",9.0

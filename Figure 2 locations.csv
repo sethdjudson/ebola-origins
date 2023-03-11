@@ -1,0 +1,36 @@
+﻿year,countries,province/district,initial location,ebolavirus,origin,origin.type,lat,long
+1976,South Sudan,,Nzara,SUDV,spillover,single spillover,4.63912,28.25115
+1976,DRC,Mongala,Yambuku,EBOV,spillover,single spillover,2.82535,22.22567
+1977,DRC,Sud-Ubangi,Tandala; Bonduni,EBOV,possible connection to 1976,human-to-human,2.88874,19.22384
+1979,South Sudan,,Nzara,SUDV,spillover,single spillover,4.63912,28.25115
+1994,Gabon,Woleu-Ntem,Mekouka mining camp,EBOV,spillover,single spillover,1.44201,12.92929
+1994,Cote d'Ivoire,Bas-Sassandra,Tai National Park,TAFV,spillover,single spillover,5.86442,-7.31794
+1995,DRC,Kwilu,Kikwit,EBOV,spillover,single spillover,-3.951,18.115
+1996,Gabon,Ogooue-Ivindo,Mayibout 2,EBOV,spillover,single spillover,1.11667,13.1
+1996,Gabon,Ogooue-Ivindo,Booué Logging Camp,EBOV,spillover,single spillover,0.1,11.95
+2000,Uganda,Gulu,"Rwot-Obillo, Gulu",SUDV,spillover,single spillover,2.94998,32.19997
+2001,Gabon,Ogooue-Ivindo,Mendemba B; Mendemba A; Etakangay; Makokou,EBOV,spillover,epizootic,0.70055,14.15543
+2001,ROC,Mbomo,Olloba,EBOV,spillover,epizootic,0.62049,14.37774
+2003,ROC,Kelle,Yembelangoye; Mvoula,EBOV,spillover,epizootic,0.06823,14.41997
+2003,ROC,Mbomo,Mbandza village,EBOV,spillover,multiple spillover,0.56015,14.65732
+2004,South Sudan,,Yambio,SUDV,spillover,single spillover,4.43149,28.7054
+2005,ROC,Etoumbi,Parc d'Odzala,EBOV,spillover,multiple spillover,1.12508,14.9158
+2007,DRC,Kasai,Luebo; Bamoukamba 2 village,EBOV,spillover,single spillover,-5.27155,21.38831
+2007,Uganda,Bundibugyo,Kabango village,BDBV,spillover,single spillover,0.7706,30.13041
+2008,DRC,Kasai,Mweka; Luebo,EBOV,possible connection to 2007,human-to-human,-5.350627,21.416457
+2011,Uganda,Luwero,Nakisamata village,SUDV,spillover,single spillover,0.64129722,32.7189639
+2012,DRC,Haut-Uele,Isiro,BDBV,spillover,single spillover,2.772236,27.608277
+2012,Uganda,Kibaale,Nyanswiga,SUDV,spillover,single spillover,0.86599,30.92654
+2012,Uganda,Luwero,Luwero district,SUDV,spillover,single spillover,0.83175,32.58253
+2013,Guinea,Nzérékoré,Meliandou,EBOV,spillover,single spillover,8.616067,-10.061178
+2014,DRC,Tshuapa,Boende; Ikanamongo village,EBOV,spillover,single spillover,0.284286,20.885094
+2017,DRC,Bas Uélé,Kagbono; Likati,EBOV,spillover,single spillover,3.363889,23.884722
+2018,DRC,Equateur,Bikoro; Ikoko-Impenge,EBOV,spillover,single spillover,-0.79962,18.43341
+2018,DRC,North Kivu,Mangina,EBOV,spillover,single spillover,0.605583,29.306646
+2020,DRC,Equateur,Mbandaka,EBOV,spillover; 2018 connection,spillover and human,0.03786,18.26767
+2021,DRC,North Kivu,Butembo,EBOV,2018–2020 connection,human-to-human,0.11465,29.30177
+2021,Guinea,Nzérékoré,Gouéké,EBOV,2013-2016 connection,human-to-human,8.03764,-8.72713
+2021,DRC,North Kivu,Beni Health Zone,EBOV,2018-2020 connection,human-to-human,0.49881,29.45283
+2022,DRC,Equateur,Mbandaka,EBOV,spillover,single spillover,0.0390221,18.2608085
+2022,DRC,North Kivu,Beni Health Zone,EBOV,2018-2020 North Kivu connection,human-to-human,0.4875071,29.4594261
+2022,Uganda,Mubende,Ngabano Village,SUDV,spillover,single spillover,0.6876406,31.4787562
