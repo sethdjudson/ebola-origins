@@ -6,6 +6,10 @@ The Changing Origins of Ebola disease Outbreaks
 By Seth D. Judson MD, Vincent J. Munster PhD
 
 
+Please note that this publication is under peer review, please contact the authors if you would like to use this data prior to publication:
+sethjudsonmd@gmail.com
+
+
 There are two Epi databases:
 
 -Index and Primary cases: contains the data for the earliest identified cases for each Ebola disease outbreak from 1976-2022
