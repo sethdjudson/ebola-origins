@@ -1,12 +1,12 @@
 # ebola-origins
 These files contain the data for the original article:
 
-The Changing Origins of Ebola disease Outbreaks
+Investigating the Origins of Ebola disease Outbreaks
 
 By Seth D. Judson MD, Vincent J. Munster PhD
 
 
-Please note that this publication is under peer review, please contact the authors if you would like to use this data prior to publication:
+Please contact the authors if you would like to use this data prior to publication:
 sethjudsonmd@gmail.com
 
 
