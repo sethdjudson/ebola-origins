@@ -1,7 +1,7 @@
 # ebola-origins
 These files contain the data for the original article:
 
-Investigating the Origins of Ebola disease Outbreaks
+The Multiple Origins of Ebola Disease Outbreaks
 
 By Seth D. Judson MD, Vincent J. Munster PhD
 
