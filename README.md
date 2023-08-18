@@ -5,10 +5,7 @@ The Multiple Origins of Ebola Disease Outbreaks
 
 By Seth D. Judson MD, Vincent J. Munster PhD
 
-
-Please contact the authors if you would like to use this data prior to publication:
-sethjudsonmd@gmail.com
-
+Seth D Judson, MD , Vincent J Munster, PhD, The Multiple Origins of Ebola Disease Outbreaks, The Journal of Infectious Diseases, 2023;, jiad352, https://doi.org/10.1093/infdis/jiad352
 
 There are two Epi databases:
 
